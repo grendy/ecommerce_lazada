@@ -1,0 +1,14 @@
+setup.py
+lazz/__init__.py
+lazz/items.py
+lazz/pipelines.py
+lazz/settings.py
+lazz/spiders/LB.py
+lazz/spiders/__init__.py
+lazz/spiders/cobaK.py
+lazz/spiders/product.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt

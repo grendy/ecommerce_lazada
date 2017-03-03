@@ -65,6 +65,5 @@ driver.find_element_by_id('s_imgBtnSearch').click()
 ##Running engine
 To running engine use crontab for automatic scheduling
 ```bash
-2 * * * * cd /root/crawler/ecommerce/lazada && python2.7 lazada.py > /dev/null 2>&1
-1 * * * * kill -9 $(ps -ef|grep "lazada.py"|grep -v "grep"|awk '{print $2}')
+python2.7 lazada.py
 ```
